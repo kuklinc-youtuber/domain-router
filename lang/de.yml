@@ -1,1 +1,12 @@
-
+kick-message: "&8[&aDomainRouter&8] &7Server &d%server% &7wurde heruntergefahren.\n&cDu wurdest vom Proxy getrennt!"
+reload-success: "&8[&aDomainRouter&8] &aDomainRouter-Konfiguration wurde erfolgreich neu geladen!"
+no-permission: "&cDu hast keine Berechtigung, diesen Befehl auszuführen."
+log-ready: "[DomainRouter] BEREIT ✔"
+log-server-not-found: "[DomainRouter] Server nicht gefunden: %target%"
+log-disconnect: "[DomainRouter] Spieler %player% wurde vollständig getrennt, da der Server %server% heruntergefahren wurde."
+help-header: "&8[&aDomainRouter&8] &7Verfügbare Befehle:"
+help-reload: "&a/domainrouter reload &8- &7Lädt die Konfiguration neu."
+help-credits: "&a/domainrouter credits &8- &7Zeigt Autoreninformationen an."
+help-help: "&a/domainrouter help &8- &7Zeigt diese Hilfenachricht an."
+credits-message: "&8[&aDomainRouter&8] &7Plugin mit Liebe erstellt von &aKuklincYT&7. Version: &a%version%"
+unknown-command: "&cUnbekanntes Argument. Nutze &a/domainrouter help"
