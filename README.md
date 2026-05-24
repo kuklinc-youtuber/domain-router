@@ -59,7 +59,7 @@ debug: true # Default is true for logging to console.
 
 To ensure 100% completeness and professional quality, you can find and download additional language files directly from our repository workspace:
 
-➔ **[Download Official Extra Translations](https://data.kuklincserver.online/workspace/kuklincyt/domain-router/languages)**
+➔ **[Download Official Extra Translations](https://github.com/kuklinc-youtuber/domain-router/tree/main/lang)**
 
 ### How to use them:
 1. **Download** the language file you need (e.g., `de.yml`, `es.yml`) from the link above.
