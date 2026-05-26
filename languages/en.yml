@@ -1,1 +1,13 @@
+kick-message: "&8[&dDomainRouter&8] &7Server &d%server% &7has been shut down.\n&cYou have been disconnected from the proxy!"
+reload-success: "&8[&dDomainRouter&8] &aDomainRouter configuration was successfully reloaded!"
+no-permission: "&cYou do not have permission to execute this command."
+log-ready: "[DomainRouter] READY ✔"
+log-server-not-found: "[DomainRouter] Server not found: %target%"
+log-disconnect: "[DomainRouter] Player %player% was completely disconnected because server %server% shut down."
+help-header: "&8[&dDomainRouter&8] &7Available commands:"
+help-reload: "&a/domainrouter reload &8- &7Reloads the configuration."
+help-credits: "&a/domainrouter credits &8- &7Shows author information."
+help-help: "&a/domainrouter help &8- &7Shows this help message."
+credits-message: "&8[&dDomainRouter&8] &7Plugin created with love by &dKuklincYT&7. Version: &d%version%"
+unknown-command: "&cUnknown argument. Type &a/domainrouter help"
 
